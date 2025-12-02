@@ -11,3 +11,12 @@ Simple Todo app using MCP UI protocol.
 
 ```bash
 npm install
+
+Start server:
+cd server
+npm run dev
+
+Start client:
+cd client
+npm start
+
